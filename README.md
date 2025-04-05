@@ -81,11 +81,3 @@ node server.js
 ## 📬 Feedback & Contributions
 
 We welcome contributions, feedback, and ideas! Help us make Wikipedia editing better for everyone.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
