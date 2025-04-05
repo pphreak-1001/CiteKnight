@@ -1,0 +1,18 @@
+#copilot-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  background-color: #3366cc;
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  z-index: 9999;
+}
+
+#copilot-button:hover {
+  background-color: #254e9b;
+}
