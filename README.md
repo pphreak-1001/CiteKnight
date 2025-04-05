@@ -1,7 +1,3 @@
-Here’s a polished `README.md` for your **CiteKnight** project:
-
----
-
 # 🛡️ CiteKnight
 
 **CiteKnight** empowers Wikipedia editors to uphold community standards through smart, gamified feedback—ensuring every edit aligns with the code of conduct while making the process engaging and rewarding.
